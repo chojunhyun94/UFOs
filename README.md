@@ -5,7 +5,7 @@ The purpose of this project was to create a filtered table for my client to add 
 
 ## Results
 Here is the main page.
-![landing_page.png]('resources/landing_page.PNG')
+![landing_page.png](resources/landing_page.PNG)
 
 ## Analysis
 
